@@ -1,0 +1,21 @@
+{
+  "name": "private bower",
+  "version": "0.0.1",
+  "homepage": "https://github.com/chfw/private-bower",
+  "authors": [
+    "chfw <wangc_2011@hotmail.com>"
+  ],
+  "description": "this is a test package for private brower",
+  "main": "main.css",
+  "keywords": [
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
