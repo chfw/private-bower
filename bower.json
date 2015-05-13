@@ -6,7 +6,7 @@
     "chfw <wangc_2011@hotmail.com>"
   ],
   "description": "this is a test package for private brower",
-  "main": "main.css",
+  "main": "./main.css",
   "keywords": [
     "css"
   ],
